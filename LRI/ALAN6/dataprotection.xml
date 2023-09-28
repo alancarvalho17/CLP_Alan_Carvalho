@@ -1104,7 +1104,7 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
-    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection95" msdata:rowOrder="92" diffgr:hasChanges="inserted">
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection105" msdata:rowOrder="92" diffgr:hasChanges="inserted">
       <iID>93</iID>
       <iSecuritylevelID>1</iSecuritylevelID>
       <iProjectdataID>47</iProjectdataID>
@@ -1116,7 +1116,7 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
-    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection96" msdata:rowOrder="93" diffgr:hasChanges="inserted">
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection106" msdata:rowOrder="93" diffgr:hasChanges="inserted">
       <iID>94</iID>
       <iSecuritylevelID>2</iSecuritylevelID>
       <iProjectdataID>47</iProjectdataID>
@@ -1128,7 +1128,7 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
-    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+    <D_DBVersion diffgr:id="D_DBVersion7" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
